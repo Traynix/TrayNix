@@ -1,16 +1,23 @@
-### Hi there 👋
+[![banner](https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif)](https://traynix.xyz/)
 
-<!--
-**TrayNix/TrayNix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![age](https://img.shields.io/badge/Age-15-blue?style=for-the-badge) ![from](https://img.shields.io/badge/from-France-red?style=for-the-badge) [![twitter](https://img.shields.io/badge/-Trayniix_-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/Trayniix_&style=for-the-badge)](https://twitter.com/Trayniix_)
 
-Here are some ideas to get you started:
+### Hello World 🧃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my discord bot and my website
+- 🌱 I’m currently learning PHP
+- 💬 Ask me about Javascript and Ruby
+- 📫 How to reach me: [ask@traynix.xyz](mailto:ask@traynix.xyz)
+- ⚡ I love programming and learning
+- 📁 My Jirafeau to send your files: https://file.traynix.xyz/
+- 💻 My skills:
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
+
+
+<br />
+[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=TrayNix&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)

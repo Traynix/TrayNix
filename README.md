@@ -11,13 +11,13 @@
 - ⚡ I love programming and learning
 - 📁 My Jirafeau to send your files: https://file.traynix.xyz/
 - 💻 My skills:
+
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-<br />
-[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=TrayNix&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![TrayNix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrayNix&show_icons=true)](https://github.com/TrayNix)

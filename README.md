@@ -3,7 +3,7 @@
 ### Hello World 🧃
 
 - 🔭 I’m currently working on my discord bot and my website
-- 🌱 I’m currently learning Kotlin                                                   
+- 🌱 I’m currently learning Kotlin and Java                                                  
 - 💬 Ask me about Javascript and Ruby
 - 📫 How to reach me: [ask@traynix.xyz](mailto:ask@traynix.xyz)
 - ⚡ I love programming and learning

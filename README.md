@@ -1,4 +1,4 @@
-![age](https://img.shields.io/badge/Age-15-blue?style=for-the-badge) ![from](https://img.shields.io/badge/from-France-red?style=for-the-badge) [![twitter](https://img.shields.io/badge/-Trayniix_-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/Trayniix_&style=for-the-badge)](https://twitter.com/Trayniix_)
+![age](https://img.shields.io/badge/Age-16-blue?style=for-the-badge) ![from](https://img.shields.io/badge/from-France-red?style=for-the-badge) [![twitter](https://img.shields.io/badge/-Trayniix_-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/Trayniix_&style=for-the-badge)](https://twitter.com/Trayniix_)
 
 ### Hello World 🧃
 

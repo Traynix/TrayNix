@@ -1,9 +1,9 @@
 ![age](https://img.shields.io/badge/Age-17-green?style=for-the-badge) ![from](https://img.shields.io/badge/from-France-red?style=for-the-badge) [![twitter](https://img.shields.io/badge/-dorian_tnx-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/dorian_tnx&style=for-the-badge)](https://twitter.com/dorian_tnx)
 
-### Hello World 🧃
+### Hello World 🍵
 
 - 🔭 My project is to create apps in JS in the future and possibly start developing discord bots in order to cultivate myself and learn new things.
-- 🌱 I’m currently learning HTML CSS and Javascript                                                  
+- 🌱 I’m currently learning HTML CSS and Javascript.                                                  
 - 📫 How to reach me: [tranichivi@outlook.it](mailto:tranichivi@outlook.it)
 - 💻 My skills:
 

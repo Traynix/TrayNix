@@ -1,4 +1,4 @@
-![age](https://img.shields.io/badge/Age-17-Green?style=for-the-badge) ![from](https://img.shields.io/badge/from-France-blue?style=for-the-badge) [![twitter](https://img.shields.io/badge/-dorian_tnx-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/dorian_tnx&style=for-the-badge)](https://twitter.com/dorian_tnx)
+![age](https://img.shields.io/badge/Age-17-Green?style=for-the-badge) ![from](https://img.shields.io/badge/from-France-red?style=for-the-badge) [![twitter](https://img.shields.io/badge/-dorian_tnx-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/dorian_tnx&style=for-the-badge)](https://twitter.com/dorian_tnx)
 
 ### Hello World 🍋
 
